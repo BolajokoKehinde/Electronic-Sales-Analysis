@@ -1,5 +1,6 @@
 # Electronic-Sales-Analysis
 This analysis shows the record of an electronic sales for the year 2021
+
 Based on the insights derived from the data, here are some recommendations to consider for future business strategies:
 
 Insights:
